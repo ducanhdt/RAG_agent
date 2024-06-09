@@ -1,0 +1,8 @@
+llama-index
+python-dotenv
+streamlit
+streamlit-pills
+llama-index-embeddings-google
+llama-index-llms-gemini
+chromadb
+llama-index-vector-stores-chroma
