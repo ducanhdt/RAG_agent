@@ -16,5 +16,7 @@ Get free Gemini API key [here](https://aistudio.google.com/app/prompts/new_chat)
 
 ### Simple QA
 Copy your own data to document forder "data", then run:
-"python simple_qa.py"
+```bash
+python simple_qa.py
+```
 
