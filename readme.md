@@ -20,8 +20,8 @@ A personal project demonstrating the power of **Large Language Models (LLMs)** c
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-link]
-    cd [your-repo-name]
+    git clone https://github.com/ducanhdt/RAG_agent
+    cd RAG_agent
     ```
 
 2.  **Set up the Python Environment:**
